@@ -1,3 +1,5 @@
+//YouTube explanation: https://youtu.be/GPU3dDUYHoo
+
 //To get started: add image to src folder
 //If using Google Image, select Tools > Color > Transparent
 
